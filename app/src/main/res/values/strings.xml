@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Video Upload</string>
+    <string name="btnTakePicture">Scatta foto</string>
+    <string name="btnRecordVideo">Registra Video</string>
+    <string name="or">(o)</string>
+    <string name="btnUploadToServer">Invia al Server</string>
+
+</resources>
